@@ -1,0 +1,8 @@
+Room number,Type,PricePerNight,Cancellation Fee,Status
+102,Deluxe,1000,20,available
+203,Suite,500,10,booked
+400,Single,150,10,booked
+412,Double,300,10,available
+501,Double,300,10,booked
+104,Single,150,10,available
+106,Deluxe,900,10,available

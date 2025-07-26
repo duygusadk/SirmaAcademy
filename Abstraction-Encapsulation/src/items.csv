@@ -1,0 +1,8 @@
+name,category,price,quantity,perishable,breakable,itemID
+Laptop,Electronics,1500.0,10,FALSE,TRUE,E001
+Smartphone,Electronics,999.0,20,FALSE,TRUE,E002
+Tablet,Electronics,650.0,30,FALSE,TRUE,E003
+Smartwatch,Electronics,299.0,40,FALSE,TRUE,E004
+Headphones,Electronics,199.0,50,FALSE,TRUE,E005
+Eggs,Grocery,2.0,100,TRUE,FALSE,G002
+Glass Vase,Fragile,12.0,30,FALSE,TRUE,F003
