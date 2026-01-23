@@ -4,7 +4,7 @@
 A console-based application that allows users to **book and cancel hotel rooms**, while administrators can manage reservations and view income reports.  
 **Key concepts:** Encapsulation, File I/O, User Authentication.
 
-🔹 [View Project](https://github.com/duygusadk/Encapsulation)  
+
 
 ---
 
@@ -14,7 +14,7 @@ Includes an **E-commerce Console Application** extension with shopping cart and 
 
 **Key concepts:** Abstraction, Interfaces, Inheritance, File I/O.  
 
-🔹 [View Project](https://github.com/duygusadk/InventoryManagementSystem)  
+
 
 ---
 
@@ -28,7 +28,7 @@ A collection of small programs practicing **Java Streams** and **File operations
 
 **Key concepts:** Java I/O Streams, Collections, Exception Handling.  
 
-🔹 [View Project](https://github.com/duygusadk/StreamsAndFiles)  
+ 
 
 ---
 
